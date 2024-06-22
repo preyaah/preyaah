@@ -4,11 +4,7 @@
 
 
 
-🔥 A tech enthusiast passionate about learning and innovation <br>👩‍🎓 B.Tech CS AI & DS Undergrad.<br>⚡ I have good command over C++, Python, Java, HTML, CSS etc.<br>🌱Presently enhancing my skills in DSA in C++ and Web Development.<br>💡I’m currently learning about React, JavaScript, Data Science etc.<br>💞️ I have a keen interest in coding and collaborating on projects that make an impact.<br><br><br>
-
-
-
-
+🔥 A tech enthusiast passionate about learning and innovation <br>👩‍🎓 B.Tech CS AI & DS Undergrad.<br>⚡ I have good command over C++, Python, Java, HTML, CSS etc.<br>🌱Presently enhancing my skills in DSA in C++ and Web Development.<br>💡I’m currently learning about React, JavaScript, Data Science etc.<br>💞️ I have a keen interest in coding and collaborating on projects that make an impact.<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya2212/) 
 

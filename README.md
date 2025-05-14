@@ -13,22 +13,22 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
  ## Github Stats:
 <p align="center">
-    <a href="https://github.com/Priya-2212">
-        <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Priya-2212&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Priya-2212&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    <a href="https://github.com/preyaah">
+        <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=preyaah&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=preyaah&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
     </a>
 </p>
 <!-- Activity Graph -->
 <p align="center">
-  <a href="https://github.com/Priya-2212">
-    <img height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=Priya-2212&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  <a href="https://github.com/preyaah">
+    <img height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=preyaah&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
   </a> 
 </p>
 
 
  <p align="center">
-   <a href="https://github.com/Priya-2212"> 
-     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priya-2212&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   <a href="https://github.com/preyaah"> 
+     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=preyaah&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
    </a>  
  </p>
 

@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priya2212/) 
 [![X (Twitter)](https://img.shields.io/badge/X-000000?logo=twitter&logoColor=white)](https://x.com/im_priyaa_)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact.priyyaa@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/priya_2212/)  [![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/priyaa291id/)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/preyah/)  [![GeeksforGeeks](https://img.shields.io/badge/GFG-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/priyaa291id/)  
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -39,18 +39,18 @@
 
 
 <!-- 50 days -->
-  <a href="https://leetcode.com/priya_2212/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="priya_2212" height="200" width="200" />
+  <a href="https://leetcode.com/preyah/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="preyah" height="200" width="200" />
   </a>
 
   <!-- 100 days -->
-  <a href="https://leetcode.com/priya_2212/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="priya_2212"  height="200" width="200"/>
+  <a href="https://leetcode.com/preyah/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/others/25100.gif" alt="preyah"  height="200" width="200"/>
   </a>
 
   <br>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/priya_2212?ext=heatmap)
+![Leetcode Stats](https://leetcard.jacoblin.cool/preyah?ext=heatmap)
 
 
 <p align="center">
